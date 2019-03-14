@@ -1,0 +1,1 @@
+1. cp -r wenjainjia newWenjain   //复制文件夹
